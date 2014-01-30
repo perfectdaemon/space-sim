@@ -1,0 +1,23 @@
+0	 (I)  	Thread ID 5092	Log subsystem started in elapsed time mode.
+47	 (I)  	Thread ID 5060	Service thread started
+1295	 (i)  	Thread ID 5060	Temporary rendering context created
+1295	 (I)  	Thread ID 5060	Getting OpenGL entry points and extension
+1295	 (I)  	Thread ID 5060	
+1295	 (i)  	Thread ID 5060	OpenGL rendering context information:
+1295	 (i)  	Thread ID 5060	Renderer     : GeForce GTX 650 Ti/PCIe/SSE2
+1295	 (i)  	Thread ID 5060	Vendor       : NVIDIA Corporation
+1295	 (i)  	Thread ID 5060	Version      : 4.3.0
+1295	 (i)  	Thread ID 5060	GLSL version : 4.30 NVIDIA via Cg compiler
+1295	 (I)  	Thread ID 5060	
+1311	 (I)  	Thread ID 5060	Getting OpenGL entry points and extension
+1342	 (i)  	Thread ID 5060	Backward compatible core PBuffer context successfully created
+1342	 (I)  	Thread ID 5060	Service context successfuly initialized
+1935	 (i)  	Thread ID 5092	Temporary rendering context created
+1950	 (I)  	Thread ID 5092	Getting OpenGL entry points and extension
+1950	 (i)  	Thread ID 5092	Temporary rendering context destroyed
+1950	 (I)  	Thread ID 5092	Getting OpenGL entry points and extension
+31341	 (i)  	Thread ID 5092	Service context queue task depleted
+42557	 (I)  	Thread ID 5060	Service thread finished
+42557	 (D)  	Thread ID 5092	Service thread destroyed
+42557	 (i)  	Thread ID 5092	Logged fatal errors: 0, errors: 0, warnings: 0, titles: 9, infos: 10, debug info: 1
+42557	 (i)  	Thread ID 5092	Log session shutdown

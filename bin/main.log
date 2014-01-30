@@ -1,0 +1,51 @@
+/Main Thread ------------------
+Старт логгирования
+[30.01.2014 20:09:24.038]uFonts: Font added from data\BankGothic RUSS Medium.ttf
+[30.01.2014 20:09:24.050]uFonts: Font added from data\Journal Regular.ttf
+[30.01.2014 20:09:24.164]TdfGame: Added "Main Menu" game scene with index: 0
+[30.01.2014 20:09:24.195]TdfGame: Added "Credits" game scene with index: 1
+[30.01.2014 20:09:24.244]TdfGame: Added "New Game" game scene with index: 2
+[30.01.2014 20:09:24.300]TdfWeapon: Weapon "Тигр" loaded from file class0_tigr.ini
+[30.01.2014 20:09:24.301]TdfWeapon: Weapon "Тигр" loaded from file class0_tigr.ini
+[30.01.2014 20:09:24.301]TdfSpaceFighter: Spacefighter "Буран-2" loaded from file sfBuran2.ini
+[30.01.2014 20:09:24.445]TdfAsteroidField: Loading data from af1.ini completed!
+[30.01.2014 20:09:24.516]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.533]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.534]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.536]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.536]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.539]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.539]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.542]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.542]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.544]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.545]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.547]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.548]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.550]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.551]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.553]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.554]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.556]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.556]Error: TdfSpaceFighter: Weapons count less then 1 in sfFake.ini
+
+[30.01.2014 20:09:24.559]TdfSpaceFighter: Spacefighter "Мишень" loaded from file sfFake.ini
+[30.01.2014 20:09:24.559]TdfGame: Added "Main Game" game scene with index: 3
+[30.01.2014 20:09:24.588]TdfGame: Added "InGame Menu" game scene with index: 4
+[30.01.2014 20:09:24.603]TdfGame: Added "Alpha version menu" game scene with index: 5
+[30.01.2014 20:09:27.104]TdfGame: "Main Menu" status gssFadeInComplete
+[30.01.2014 20:09:28.813]TdfGame: "Main Menu" status gssFadeOutComplete
+[30.01.2014 20:09:31.314]TdfGame: "New Game" status gssFadeInComplete
+[30.01.2014 20:09:35.975]TdfGame: "New Game" status gssFadeOutComplete
+[30.01.2014 20:09:38.480]TdfGame: "Main Game" status gssFadeInComplete
+Окончание логгирования
+\Main Thread ------------------
